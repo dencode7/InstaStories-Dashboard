@@ -57,7 +57,7 @@ requirements.txt - Dependências do projeto
 
 📄 Licença
 
-MIT License - Veja o arquivo LICENSE para detalhes.
+MIT License - Veja o arquivo [LICENSE] para detalhes.
 
 🤝 Como Contribuir
 
