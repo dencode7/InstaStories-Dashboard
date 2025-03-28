@@ -55,6 +55,10 @@ requirements.txt - Dependências do projeto
 
 /data - Pasta para armazenar CSVs de exemplo
 
+📄 Licença
+
+MIT License - Veja o arquivo LICENSE para detalhes.
+
 🤝 Como Contribuir
 
 Faça um Fork do projeto
