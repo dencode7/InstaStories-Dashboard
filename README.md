@@ -57,7 +57,7 @@ requirements.txt - Dependências do projeto
 
 📄 Licença
 
-MIT License - Veja o arquivo [LICENSE] para detalhes.
+MIT License - Veja o arquivo [LICENSE] (https://github.com/dencode7/InstaStories-Dashboard/blame/main/LICENSE) para detalhes.
 
 🤝 Como Contribuir
 
